@@ -1,1 +1,2 @@
-[demo](https://nfapriyanto.github.io/happy-birthday/)
+# Demo 
+[Click Here](https://nfapriyanto.github.io/happy-birthday/) to view demo.
