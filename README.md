@@ -1,2 +1,1 @@
-demo
-https://nfapriyanto.github.io/happy-birthday/
+[demo](https://nfapriyanto.github.io/happy-birthday/)
