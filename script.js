@@ -1,5 +1,5 @@
 // Set the date we're counting down to (example: August 29, 2024)
-const countDownDate = new Date("Aug 17, 2024 00:00:00").getTime();
+const countDownDate = new Date("Jan 15, 2024 10:20:00").getTime();
 let now;
 let distance;
 
